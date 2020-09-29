@@ -1,6 +1,13 @@
 #####################################################
 # Jekyll (Static Site) Showcase - Add Your Site!
 
+- title:     Gabriel A. López López
+  subtitle:  My personal website and blog
+  live:      https://glpzzz.github.io
+  source:    https://github.com/glpzzz/glpzzz.github.io
+  thumbnail: glpzzz.png
+  tags:      [blog, person]
+
 - title:     Raul Dipeas's blog
   subtitle:  My personal blog about Linux and Xubuntu
   live:      https://blog.rauldipeas.tk
